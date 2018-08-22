@@ -1,0 +1,35 @@
+.button_div{
+	text-align:right;
+}
+.product{
+	margin-left:40%;
+	margin-top:10px;
+	
+}
+.Account_conatiner{
+	display:inline;
+	line-height:200%;
+	font-family: "Times New Roman", Georgia, Serif;
+	color:#68bed4;
+}
+.username{
+	font-size:120%;
+	border:1px solid #3366b2;
+	 font-family: "Times New Roman", Georgia, Serif;
+	color:#68bed4;
+}
+.user{
+	font-size:110%;
+	font-family: "Times New Roman", Georgia, Serif;
+	color:#68bed4;
+}
+.order_container{
+	line-height:200%;
+	font-family: "Times New Roman", Georgia, Serif;
+	
+	
+	
+}
+.product{
+	margin-left:40%;
+}

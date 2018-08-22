@@ -1,0 +1,47 @@
+.table{
+ margin-left:20%;
+ margin-bottom:70px;
+ margin-top:30px;
+ border:1px solid #4e563c;
+ width:70%;
+ background-color:#4e563c;
+ -webkit-border-radius:5px;
+ -moz-border-radius:5px;
+ border-radius:5px;
+	
+}
+.table tr{
+	margin:10px;
+}
+.table td{
+	
+	background-color:white;
+	padding:2px;
+}
+
+.quantity_change{
+	
+	margin-right:8px;
+	margin-left:8px;
+	
+	color:black;
+	text-decoration:none;
+}
+.quantity_change:hover{
+background-color:white;
+color:black;
+}
+.table_header{
+	background-color:#4e563c;
+	color:white;
+}
+.delete{
+	max-height:20px;
+	margin-left:30%;
+}
+.order img{
+max-height:40px;
+}
+.order_td{
+margin:0px;
+padding:0px;}
