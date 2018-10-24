@@ -2,5 +2,14 @@
 Online Medical Store
 
 Framework - CODEIGNITER
-HTML,CSS,JQUERY
-PHPMYADMIN
+
+
+
+Front End - HTML,CSS,JQUERY
+
+
+
+Backend - PHP
+
+
+Database - PHPMYADMIN
